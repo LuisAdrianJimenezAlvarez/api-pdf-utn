@@ -1,14 +1,3 @@
-"""================================================================================================
-Institute....: Universidad Técnica Nacional
-Headquarters.: Pacífico
-Career.......: Tecnologías de la Información
-Period.......: II-2025
-Document.....: apiPDF.main.py
-Goals........: Create API-Rest to read a PDF file and return the data in JSON format
-Professor....: Jorge Ruiz (york)
-Student......:
-================================================================================================"""
-
 # import required modules or libraries
 import json
 from typing import Annotated
